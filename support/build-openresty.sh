@@ -1,7 +1,7 @@
 #!/bin/bash
 
 base_dir=$(pwd)
-openresty_tar="ngx_openresty-1.7.10.1.tar.gz"
+openresty_tar="ngx_openresty-1.9.3.1.tar.gz"
 pcre_tar="pcre-8.37.tar.gz"
 
 echo "$(tput setaf 2)Downloading openresty...$(tput sgr0)"
